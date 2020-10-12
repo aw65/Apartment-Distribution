@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  Midterm_Alan
 //
 //  Created by Alan on 2020/1/20.
 //  Copyright © 2020 Alan. All rights reserved.
